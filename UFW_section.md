@@ -28,3 +28,4 @@ You can also specify the source IP address if you want to restrict access furthe
 <https://www.it-connect.fr/configurer-un-pare-feu-local-sous-debian-11-avec-ufw/>  
 <https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04>  
 <https://www.malekal.com/ufw-configurer-voir-creer-supprimer-reinitialiser-des-regles-de-firewall/>
+<https://itslinuxfoss.com/set-up-firewall-with-ufw-debian-12/#:~:text=What%20is%20the%20Method%20to%20Install%20UFW%20on,Step%204%3A%20Check%20the%20Status%20of%20UFW%20>
