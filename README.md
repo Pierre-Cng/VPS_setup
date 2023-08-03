@@ -9,7 +9,7 @@ Quick reminder of how to setup a virtual personal server (VPS).
 * Configure the VPS through the hosting provider platform ([here](https://help.ovhcloud.com/csm/fr-vps-getting-started?id=kb_article_view&sysparm_article=KB0047736))
 * Create and configure ssh connection (c.f [SSH section](#ssh-section))
 * Update the system
-* Secure the VPS (e.g configure a Firewall, c.f [Security section](#security-section))
+* Secure the VPS (e.g configure a firewall, c.f [Security section](#security-section))
 * Install necessary software (e.g Jenkins, see [Jenkins section](#jenkins-section)))
 * Setup backup strategy (c.f [Backup strategy section](#backup-strategy-section))
 
