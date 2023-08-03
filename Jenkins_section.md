@@ -36,7 +36,8 @@ If UFW is used, to authorize Jenkins service, enter the command:
 
 ### 5. Access Jenkins Web Interface:
 
-Access the Jenkins web interface using the VPS's public IP address or domain name followed by port 8080. Open a web browser and enter the following URL:  
+Access the Jenkins web interface using the VPS's public IP address or domain name followed by port 8080.  
+Open a web browser and enter the following URL:  
 `http://your_vps_ip_or_domain:8080`  
 During the initial setup, Jenkins will ask for an administrator password. The password is in the following file:  
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`  
