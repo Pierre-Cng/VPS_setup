@@ -10,7 +10,7 @@ It should show that UFW is inactive: Status: inactive.
 ### 3. Allow SSH Access:
 * sudo ufw allow ssh  
 or  
-* sudo ufw allow (specific port number)  
+* sudo ufw allow [specific port number]  
 ### 4. Enable UFW:
 * sudo ufw enable  
 ### 5. Check UFW Status Again:
