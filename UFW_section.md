@@ -1,7 +1,7 @@
 # UFW section:
 
 ## Steps:
-1. Install UFW (if not already installed):
+### 1. Install UFW (if not already installed):
 * sudo apt update  
 * sudo apt install ufw  
 2. Check UFW Status:
