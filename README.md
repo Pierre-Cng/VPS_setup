@@ -6,7 +6,7 @@ Quick reminder of how to setup a virtual personal server (VPS).
 
 ## Steps to setup a VPS:
 * Choose a hosting provider
-* Choose an OS (c.f [Debian section](## Debian section:))
+* Choose an OS (c.f [Debian section](##Debian section:))
 * Configure the VPS through the hosting provider platform ([here](https://help.ovhcloud.com/csm/fr-vps-getting-started?id=kb_article_view&sysparm_article=KB0047736))
 * Create and configure ssh connection (c.f [SSH section](#SSH section:))
 * Update the system
