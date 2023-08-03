@@ -16,8 +16,8 @@ To install OpenJDK:
 ### 2. Download and Install Jenkins:
 
 Add the Jenkins repository to your system:  
-`wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -  
-sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'`  
+`wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -`    
+`sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'`  
 Install Jenkins:  
 `sudo apt update`  
 `sudo apt install jenkins`  
