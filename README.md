@@ -34,3 +34,8 @@ Quick reminder of how to setup a virtual personal server (VPS).
 ## Backup strategy section:
 
 [Backup strategy section](Backup_strategy_section.md)
+
+## Rescue mode:
+
+To get back your VPS in case of problem you can reboot it in rescue mode, which allows you to access the VPS disk with another external OS (linux).  
+Here is a [link to a quick tutorial](https://help.ovhcloud.com/csm/fr-vps-rescue?id=kb_article_view&sysparm_article=KB0047658).   
