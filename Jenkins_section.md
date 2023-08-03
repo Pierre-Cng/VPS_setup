@@ -7,10 +7,10 @@ Reference [here](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
 ### 1. Install Java:
 
 Jenkins requires Java to run. Check if Java is installed with the command:  
-'java -version'  
+  java -version  
 To install OpenJDK:  
-'sudo apt update'  
-'sudo apt install openjdk-17-jre'  
+  sudo apt update  
+  sudo apt install openjdk-17-jre  
 [See also](https://itslinuxfoss.com/install-java-debian-12-linux/#:~:text=Method%201%3A%20Using%20the%20Repository%20Package%201%20Step,...%204%20Step%204%3A%20Verify%20the%20Installation%20)  
 
 ### 2. Download and Install Jenkins:
