@@ -32,9 +32,9 @@ or
 * Task Scheduler (on Windows)
 
 For example, to edit the crontab on Linux, run:  
-'crontab -e'  
+`crontab -e`  
 Then add a line to specify the backup schedule. For a daily backup at midnight, you can use:  
-'0 0 * * * /path/to/your/backup/script.sh'  
+`0 0 * * * /path/to/your/backup/script.sh`  
 Replace /path/to/your/backup/script.sh with the actual path to your backup script or command.
 
 ### 5. Implement Backup Rotation:
