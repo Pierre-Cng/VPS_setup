@@ -58,5 +58,5 @@ Regularly update Jenkins and its plugins to keep the instance secure and up-to-d
 
 ## Reference / tutorial:
 
-<https://www.youtube.com/watch?v=f4idgaq2VqA>
+<https://www.youtube.com/watch?v=f4idgaq2VqA>  
 <https://code.tutsplus.com/continuous-integration-workflow--CRS-200423c/jenkins-overview>
