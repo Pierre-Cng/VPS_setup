@@ -10,7 +10,7 @@ Quick reminder of how to setup a virtual personal server (VPS).
 * Create and configure ssh connection (c.f [SSH section](#ssh-section))
 * Update the system
 * Secure the VPS (e.g configure a firewall, c.f [Security section](#security-section))
-* Install necessary software (e.g Jenkins, see [Jenkins section](#jenkins-section)))
+* Install necessary software (e.g Jenkins, see [Jenkins section](#jenkins-section))
 * Setup backup strategy (c.f [Backup strategy section](#backup-strategy-section))
 
 ## Debian section:
