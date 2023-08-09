@@ -47,6 +47,8 @@ Follow the instructions on the web interface to complete the installation and se
 
 After the initial setup, it's essential to configure Jenkins security to protect your instance. You can enable security by installing the "Security Realm" and "Authorization Strategy" plugins, and then configuring them to suit your needs.  
 
+NB: to change the language interface use the plugin [Locale](https://plugins.jenkins.io/locale/).
+
 ### 7. Install Required Plugins:
 
 Jenkins functionality can be extended through various plugins. Depending on the project needs, additional plugins from the Jenkins web interface can be installed.
